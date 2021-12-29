@@ -1,0 +1,23 @@
+.contact_form_box{
+    box-shadow: var(--boxShadow) !important;
+    padding: 60px;
+    margin: 0 50px;
+    background-color: #282c34;
+  box-shadow: 0px 10px 19px #1c1e22,-10px -10px 19px #262a2e !important;
+  margin-bottom: 10;
+}
+.contact_form_box form{
+    display: flex;
+    flex-direction: column;
+}
+
+.contact_form_box .MuiInputBase-formControl{
+    margin: 10px 0;
+    font-size: 18px;
+    box-shadow: var(--boxShadow) !important;
+    color: #ffffff;
+}
+
+.contact_form_box label{
+    color: #ffffff !important;
+}

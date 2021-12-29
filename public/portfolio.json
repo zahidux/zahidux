@@ -1,0 +1,56 @@
+[
+    {
+        "id": "01",
+        "name": "Yamaha",
+        "DesOne": "Yamaha Motor is a Japanese manufacturer of motorcycles.",
+        "DesTwo": "The company was established in 1955 upon separatio.",
+        "DesThree": "Yamaha gateway to the industry leading powersports company.",
+        "projectURL": "https://azaz-personal-by-forid.netlify.app/",
+        "imageURL": "https://i.ibb.co/x1DVLQv/yamaha.jpg"
+    },
+    {
+        "id": "02",
+        "name": "Hotel",
+        "DesOne": "Yamaha Motor is a Japanese manufacturer of motorcycles.",
+        "DesTwo": "The company was established in 1955 upon separatio.",
+        "DesThree": "Yamaha gateway to the industry leading powersports company.",
+        "projectURL": "https://azaz-personal-by-forid.netlify.app/",
+        "imageURL": "https://i.ibb.co/8zTvcyw/hotel.jpg"
+    },
+    {
+        "id": "03",
+        "name": "Tanha Healthcare",
+        "DesOne": "Yamaha Motor is a Japanese manufacturer of motorcycles.",
+        "DesTwo": "The company was established in 1955 upon separatio.",
+        "DesThree": "Yamaha gateway to the industry leading powersports company.",
+        "projectURL": "https://azaz-personal-by-forid.netlify.app/",
+        "imageURL": "https://i.ibb.co/Rpb1Y3n/tanha.jpg"
+    },
+    {
+        "id": "04",
+        "name": "Education",
+        "DesOne": "Yamaha Motor is a Japanese manufacturer of motorcycles.",
+        "DesTwo": "The company was established in 1955 upon separatio.",
+        "DesThree": "Yamaha gateway to the industry leading powersports company.",
+        "projectURL": "https://azaz-personal-by-forid.netlify.app/",
+        "imageURL": "https://i.ibb.co/CWxNwpR/react-3.png"
+    },
+    {
+        "id": "05",
+        "name": "Travel",
+        "DesOne": "Yamaha Motor is a Japanese manufacturer of motorcycles.",
+        "DesTwo": "The company was established in 1955 upon separatio.",
+        "DesThree": "Yamaha gateway to the industry leading powersports company.",
+        "projectURL": "https://azaz-personal-by-forid.netlify.app/",
+        "imageURL": "https://i.ibb.co/ftjGGkV/react-2.png"
+    },
+    {
+        "id": "06",
+        "name": "Apps",
+        "DesOne": "Yamaha Motor is a Japanese manufacturer of motorcycles.",
+        "DesTwo": "The company was established in 1955 upon separatio.",
+        "DesThree": "Yamaha gateway to the industry leading powersports company.",
+        "projectprojectURL": "https://azaz-personal-by-forid.netlify.app/",
+        "imageURL": "https://i.ibb.co/WpgVPmr/Design-by-Forid.png"
+    }
+]

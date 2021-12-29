@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color: #282c34;
+}
+
+.link_style {
+  padding: 0 15px;
+  text-decoration: none;
+  color: #61dafb;
+}
+
+.btn_regular {
+  text-decoration: none;
+  color: #61dafb;
+  padding: 10px;
+  background-color: rgb(0, 0, 0);
+  border-radius: 8px;
+}
+
+.pry-bg {
+  background-color: #282c34;
+  box-shadow: 0px 10px 19px #1c1e22,-10px -10px 19px #262a2e !important;
+}
