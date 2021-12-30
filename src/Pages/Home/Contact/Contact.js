@@ -23,13 +23,13 @@ const Contact = () => {
         <Container>
             <Box className="pry-bg" id="contact" sx={{ pb: 5, my: 10 }}>
                 <Box sx={{ textAlign: 'center', padding: "80px" }}>
-                    <Typography className="section_title" variant="h3">
+                    <Typography className="section_title" variant="h3" sx={{ color: '#61dafb' }}>
                         Contact Me
                     </Typography>
                 </Box>
                 <Box className="contact_form_box">
                     <Box className="contact_text">
-                        <Typography sx={{ color: '#fff', textAlign: 'center', }} variant="h3">
+                        <Typography sx={{ color: '#fff', textAlign: 'center', }} variant="h5">
                             Get In Touch
                         </Typography>
                     </Box>
@@ -64,7 +64,7 @@ const Contact = () => {
                             name="message"
                         />
                         <Box sx={{ Disply: "flex", alignItems: "center", justifyContent: "Center" }}>
-                            <Button sx={{ padding: '15px 0 !important', backgroundColor: "yellow", width: "100px" }} className="btn_regular" type="submit">Submit</Button>
+                            <Button sx={{ padding: '7px 0 !important', backgroundColor: '#61dafb', width: "100px", color: 'white' }} className="btn_regular" type="submit">Submit</Button>
                         </Box>
                     </form>
                 </Box>

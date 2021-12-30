@@ -17,7 +17,7 @@ const Projects = () => {
     return (
         <Box id="projects" sx={{ flexGrow: 1 }}>
             <Container>
-                <Typography variant="h4" sx={{ fontWeight: '600', marginBottom: '35px' }}>
+                <Typography variant="h4" sx={{ color: '#61dafb', fontWeight: '600', marginBottom: '35px' }}>
                     My Projects
                 </Typography>
                 <Grid container spacing={{ xs: 2, md: 3 }} columns={{ xs: 4, sm: 8, md: 12 }}>

@@ -20,8 +20,8 @@ const Header = () => {
             <Box sx={{ flexGrow: 1 }}>
                 <AppBar sx={{ backgroundColor: '#282c34', boxShadow: 'var(--boxShadow) !important' }} position="static">
                     <Toolbar>
-                        <Typography variant="h4" component="div" sx={{ flexGrow: 1, fontFamily: 'var(--PlayballFonts) !important', textAlign: 'left' }}>
-                            Zahid Hasan
+                        <Typography variant="h4" component="div" sx={{ color: '#61dafb', flexGrow: 1, fontFamily: 'var(--PlayballFonts) !important', textAlign: 'left' }}>
+                            Portfolio
                         </Typography>
 
                         {matches ? <ResponsiveDrawer openDrawer={openDrawer} setOpenDrawer={setOpenDrawer} />

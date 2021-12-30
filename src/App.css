@@ -59,3 +59,12 @@ body {
   background-color: #282c34;
   box-shadow: 0px 10px 19px #1c1e22,-10px -10px 19px #262a2e !important;
 }
+
+.social_icons {
+  margin: 0;
+  float: left;
+}
+.icon {
+  padding: 0 10px ;
+  color: #21bbf8;  
+}

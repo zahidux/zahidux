@@ -28,14 +28,7 @@ const ResponsiveDrawer = ({ openDrawer, setOpenDrawer }) => {
                 <ListItem className="d_menu_item" button onClick={() => setOpenDrawer(false)}>
                     <ListItemIcon>
                         <ListItemText>
-                            <Link className="res_link" href="#services">Services</Link>
-                        </ListItemText>
-                    </ListItemIcon>
-                </ListItem>
-                <ListItem className="d_menu_item" button onClick={() => setOpenDrawer(false)}>
-                    <ListItemIcon>
-                        <ListItemText>
-                            <Link className="res_link" href="#education">Education</Link>
+                            <Link className="res_link" href="#blog">Blog</Link>
                         </ListItemText>
                     </ListItemIcon>
                 </ListItem>

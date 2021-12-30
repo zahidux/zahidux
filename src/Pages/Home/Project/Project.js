@@ -22,7 +22,7 @@ const Project = (props) => {
                     <Typography gutterBottom variant="h5" component="div">
                         {name}
                     </Typography>
-                    <Button sx={{ backgroundColor: '#67E5EE' }}>Live Site</Button>
+                    <Button sx={{ color: 'white', backgroundColor: '#61dafb', borderRedius: '10px' }}>Live Site</Button>
                 </CardContent>
             </Card>
         </Grid>

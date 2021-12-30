@@ -9,13 +9,13 @@ const Bannar = () => {
                 <Grid container sx={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }} spacing={2}>
                     <Grid item xs={12} md={6}>
                         <Box sx={{ disply: 'flex', alignItems: 'center', ml: 15 }}>
-                            <Typography variant="h4" sx={{ textAlign: 'left' }}>
+                            <Typography variant="h4" sx={{ textAlign: 'left', color: '#61dafb' }}>
                                 Hello!
                             </Typography>
-                            <Typography variant="h3" sx={{ textAlign: 'left' }}>
+                            <Typography variant="h3" sx={{ textAlign: 'left', color: '#61dafb' }}>
                                 I'm Zahid Hasan
                             </Typography>
-                            <Typography variant="h5" sx={{ textAlign: 'left' }}>
+                            <Typography variant="h5" sx={{ textAlign: 'left', color: '#61dafb' }}>
                                 Web Developer
                             </Typography>
                         </Box>
